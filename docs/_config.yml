@@ -29,6 +29,7 @@ url: "https://heckyeahdad.github.io/" # the base hostname & protocol for your si
 domain: "heckyeahdad.github.io/"
 #twitter_username: jekyllrb
 github_username:  heckyeahdad
+github: [metadata]
 
 # Build settings
 # theme: minima
