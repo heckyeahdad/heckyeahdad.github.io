@@ -33,8 +33,8 @@ github_username:  heckyeahdad
 github: [metadata]
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-so-simple
+theme: minima
+# theme: jekyll-theme-so-simple
 
 # having trouble with reomte_theme... commenting out and added theme above
 # plugins:
