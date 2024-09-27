@@ -33,10 +33,13 @@ github_username:  heckyeahdad
 github: [metadata]
 
 # Build settings
-theme: minima
-plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
-# sremote_theme: pages-themes/tactile@v0.2.0
+# theme: minima
+theme: jekyll-theme-so-simple
+
+# having trouble with reomte_theme... commenting out and added theme above
+# plugins:
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/tactile@v0.2.0
 
 # show_downloads: [false]
 # google_analytics: [Your Google Analytics tracking ID]
